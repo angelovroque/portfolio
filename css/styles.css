@@ -704,7 +704,7 @@ header {
   background-size: cover;
 }
 .background-image4 {
-  background: url(../images/lifestyle03-lg.jpg) no-repeat center;
+  background: url(../images/aftereffects.jpg) no-repeat center;
   height: 100%;
   display: block;
   width: 100%;
@@ -718,7 +718,7 @@ header {
   background-size: cover;
 }
 .background-image5 {
-  background: url(../images/food01-lg.jpg) no-repeat center;
+  background: url(../images/code.jpg) no-repeat center;
   height: 100%;
   display: block;
   width: 100%;
@@ -746,7 +746,7 @@ header {
   background-size: cover;
 }
 .background-image7 {
-  background: url(../images/fullscreen15.jpg) no-repeat center;
+  background: url(../images/scilp.jpg) no-repeat center;
   height: 100%;
   display: block;
   width: 100%;
@@ -1742,6 +1742,7 @@ ul.pagination li a.active:hover {
 }
 .post-text {
   font-size: 17px;
+  font-family: "Lato", Arial, Helvetica, sans-serif;
 }
 .post-text p {
   max-width: 100% !important;
