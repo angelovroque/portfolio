@@ -1558,6 +1558,7 @@ img {
   height: 100%;
   -webkit-transition: all 0.2s ease 0s;
   transition: all 0.2s ease 0s;
+  overflow: hidden;
 }
 .overlay2 {
   display: block;
@@ -1568,6 +1569,7 @@ img {
   height: 100%;
   -webkit-transition: all 0.2s ease 0s;
   transition: all 0.2s ease 0s;
+  overflow: hidden;
 }
 .covering-image {
   position: absolute;
