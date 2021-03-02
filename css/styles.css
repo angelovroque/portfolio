@@ -1532,6 +1532,7 @@ img {
   font-weight: 600;
   font-size: 24px;
   letter-spacing: -0.5px;
+  overflow: hidden;
 }
 .sliphoveritemTitle span {
   font-size: 11px !important;
